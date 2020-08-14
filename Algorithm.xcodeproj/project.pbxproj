@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		BA37004224E6149B00ADDA7D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA37004124E6149B00ADDA7D /* main.swift */; };
 		BA37004C24E6179600ADDA7D /* 1330.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA37004B24E6179600ADDA7D /* 1330.swift */; };
+		BA37006E24E6529300ADDA7D /* 9498.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA37006D24E6529300ADDA7D /* 9498.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		BA37003E24E6149B00ADDA7D /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA37004124E6149B00ADDA7D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BA37004B24E6179600ADDA7D /* 1330.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1330.swift; sourceTree = "<group>"; };
+		BA37006D24E6529300ADDA7D /* 9498.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9498.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			children = (
 				BA37004124E6149B00ADDA7D /* main.swift */,
 				BA37004B24E6179600ADDA7D /* 1330.swift */,
+				BA37006D24E6529300ADDA7D /* 9498.swift */,
 			);
 			name = "if문";
 			path = "if문";
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA37004C24E6179600ADDA7D /* 1330.swift in Sources */,
+				BA37006E24E6529300ADDA7D /* 9498.swift in Sources */,
 				BA37004224E6149B00ADDA7D /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
