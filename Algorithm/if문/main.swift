@@ -8,5 +8,13 @@
 
 import Foundation
 
-print("Hello, World!")
+let inputArr = (readLine()!).components(separatedBy: " ")
+
+let numA: Int = Int(inputArr[0])!
+let numB: Int = Int(inputArr[1])!
+
+if numA > numB {
+    
+}
+
 
