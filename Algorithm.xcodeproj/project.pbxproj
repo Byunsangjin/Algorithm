@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		60617D4E24F0F8FC0092CF06 /* 5622.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60617D4D24F0F8FC0092CF06 /* 5622.swift */; };
+		60617D7024F214960092CF06 /* 2941.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60617D6F24F214960092CF06 /* 2941.swift */; };
+		60617D7224F21D140092CF06 /* 1316.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60617D7124F21D140092CF06 /* 1316.swift */; };
 		60D3EB9624E81F8100B88AA3 /* 2753.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D3EB9524E81F8100B88AA3 /* 2753.swift */; };
 		60D3EB9A24E8219700B88AA3 /* 14681.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D3EB9924E8219700B88AA3 /* 14681.swift */; };
 		60D3EB9C24E822E500B88AA3 /* 2884.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60D3EB9B24E822E500B88AA3 /* 2884.swift */; };
@@ -65,6 +67,8 @@
 
 /* Begin PBXFileReference section */
 		60617D4D24F0F8FC0092CF06 /* 5622.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5622.swift; sourceTree = "<group>"; };
+		60617D6F24F214960092CF06 /* 2941.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2941.swift; sourceTree = "<group>"; };
+		60617D7124F21D140092CF06 /* 1316.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1316.swift; sourceTree = "<group>"; };
 		60D3EB9524E81F8100B88AA3 /* 2753.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2753.swift; sourceTree = "<group>"; };
 		60D3EB9924E8219700B88AA3 /* 14681.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 14681.swift; sourceTree = "<group>"; };
 		60D3EB9B24E822E500B88AA3 /* 2884.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2884.swift; sourceTree = "<group>"; };
@@ -189,6 +193,8 @@
 				60D3EBE624F0ED6A00B88AA3 /* 1152.swift */,
 				60D3EBE824F0EE9E00B88AA3 /* 2908.swift */,
 				60617D4D24F0F8FC0092CF06 /* 5622.swift */,
+				60617D6F24F214960092CF06 /* 2941.swift */,
+				60617D7124F21D140092CF06 /* 1316.swift */,
 			);
 			name = "문자열";
 			path = "문자열";
@@ -334,9 +340,11 @@
 				60D3EBE124F0E2D500B88AA3 /* 10809.swift in Sources */,
 				60617D4E24F0F8FC0092CF06 /* 5622.swift in Sources */,
 				60D3EBD624EAAA5500B88AA3 /* 4344.swift in Sources */,
+				60617D7024F214960092CF06 /* 2941.swift in Sources */,
 				60D3EBAB24E8F14200B88AA3 /* 11021.swift in Sources */,
 				60D3EBAF24E8FE2F00B88AA3 /* 2438.swift in Sources */,
 				60D3EBE324F0E7C200B88AA3 /* 2675.swift in Sources */,
+				60617D7224F21D140092CF06 /* 1316.swift in Sources */,
 				60D3EBA724E83D0B00B88AA3 /* 2741.swift in Sources */,
 				BA37004224E6149B00ADDA7D /* main.swift in Sources */,
 				60D3EBAD24E8F77800B88AA3 /* 11022.swift in Sources */,
