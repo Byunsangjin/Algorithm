@@ -9,9 +9,16 @@
 import Foundation
 
 func run_5622() {
-    let letters = ["", "", "ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ"]
-    
-    readLine()!.forEach { _ in
-        letters.forEach(<#T##body: (String) throws -> Void##(String) throws -> Void#>)
+    let letters = ["", "", "", "ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ"]
+    var time = 0
+
+    readLine()!.forEach { inputChar in
+        for i in 0..<letters.count {
+            if letters[i].contains(inputChar) {
+                time += i
+            }
+        }
     }
+
+    print(time)
 }
