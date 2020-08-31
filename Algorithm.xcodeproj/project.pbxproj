@@ -12,6 +12,9 @@
 		6007F91524F3F00A0012913A /* 2839.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6007F91424F3F00A0012913A /* 2839.swift */; };
 		6007F91724F3F5E30012913A /* 2292.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6007F91624F3F5E30012913A /* 2292.swift */; };
 		6007F91924F3FEAD0012913A /* 1193.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6007F91824F3FEAD0012913A /* 1193.swift */; };
+		6007F91F24FA88F90012913A /* 10250.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6007F91E24FA88F90012913A /* 10250.swift */; };
+		6007F92124FA9B6A0012913A /* 2775.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6007F92024FA9B6A0012913A /* 2775.swift */; };
+		6007F92324FAA3BD0012913A /* 1011.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6007F92224FAA3BD0012913A /* 1011.swift */; };
 		60617D4E24F0F8FC0092CF06 /* 5622.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60617D4D24F0F8FC0092CF06 /* 5622.swift */; };
 		60617D7024F214960092CF06 /* 2941.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60617D6F24F214960092CF06 /* 2941.swift */; };
 		60617D7224F21D140092CF06 /* 1316.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60617D7124F21D140092CF06 /* 1316.swift */; };
@@ -76,6 +79,9 @@
 		6007F91424F3F00A0012913A /* 2839.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2839.swift; sourceTree = "<group>"; };
 		6007F91624F3F5E30012913A /* 2292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2292.swift; sourceTree = "<group>"; };
 		6007F91824F3FEAD0012913A /* 1193.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1193.swift; sourceTree = "<group>"; };
+		6007F91E24FA88F90012913A /* 10250.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10250.swift; sourceTree = "<group>"; };
+		6007F92024FA9B6A0012913A /* 2775.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2775.swift; sourceTree = "<group>"; };
+		6007F92224FAA3BD0012913A /* 1011.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1011.swift; sourceTree = "<group>"; };
 		60617D4D24F0F8FC0092CF06 /* 5622.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5622.swift; sourceTree = "<group>"; };
 		60617D6F24F214960092CF06 /* 2941.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2941.swift; sourceTree = "<group>"; };
 		60617D7124F21D140092CF06 /* 1316.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1316.swift; sourceTree = "<group>"; };
@@ -142,6 +148,9 @@
 				6007F91624F3F5E30012913A /* 2292.swift */,
 				6007F91824F3FEAD0012913A /* 1193.swift */,
 				BA284FFB24F4843F00A3BA11 /* 2869.swift */,
+				6007F91E24FA88F90012913A /* 10250.swift */,
+				6007F92024FA9B6A0012913A /* 2775.swift */,
+				6007F92224FAA3BD0012913A /* 1011.swift */,
 			);
 			name = "수학";
 			path = "수학";
@@ -340,6 +349,7 @@
 				6007F91524F3F00A0012913A /* 2839.swift in Sources */,
 				BA37004C24E6179600ADDA7D /* 1330.swift in Sources */,
 				6007F91924F3FEAD0012913A /* 1193.swift in Sources */,
+				6007F92324FAA3BD0012913A /* 1011.swift in Sources */,
 				BA37006E24E6529300ADDA7D /* 9498.swift in Sources */,
 				60D3EB9624E81F8100B88AA3 /* 2753.swift in Sources */,
 				6007F91024F247E80012913A /* 2908.swift in Sources */,
@@ -349,6 +359,7 @@
 				6007F91724F3F5E30012913A /* 2292.swift in Sources */,
 				60D3EBDD24F0E1CC00B88AA3 /* 11654.swift in Sources */,
 				60D3EBCA24EA33AF00B88AA3 /* 10818.swift in Sources */,
+				6007F92124FA9B6A0012913A /* 2775.swift in Sources */,
 				60D3EB9C24E822E500B88AA3 /* 2884.swift in Sources */,
 				60D3EB9F24E825BB00B88AA3 /* 2739.swift in Sources */,
 				60D3EBCC24EA398900B88AA3 /* 2562.swift in Sources */,
@@ -366,6 +377,7 @@
 				60D3EBDF24F0E26500B88AA3 /* 11720.swift in Sources */,
 				60D3EBB324E96E5C00B88AA3 /* 10871.swift in Sources */,
 				60D3EBE124F0E2D500B88AA3 /* 10809.swift in Sources */,
+				6007F91F24FA88F90012913A /* 10250.swift in Sources */,
 				60617D4E24F0F8FC0092CF06 /* 5622.swift in Sources */,
 				60D3EBD624EAAA5500B88AA3 /* 4344.swift in Sources */,
 				60617D7024F214960092CF06 /* 2941.swift in Sources */,
