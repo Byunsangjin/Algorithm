@@ -6,6 +6,12 @@
 //  Copyright © 2020 Byunsangjin. All rights reserved.
 //
 
+/**
+ 에라토스테네스의 체
+ 제곱근 이하의 수까지의 배수인 수를 지우면 소수만 남는다.
+ 이를 이용하여 문제 풀이하면 됨.
+ */
+
 import Foundation
 
 func run_1929() {
