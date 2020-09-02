@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2683058524FFDEC300DBD3FF /* 4948.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2683058424FFDEC300DBD3FF /* 4948.swift */; };
+		2683058724FFE36800DBD3FF /* 9020.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2683058624FFE36800DBD3FF /* 9020.swift */; };
 		6007F91024F247E80012913A /* 2908.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6007F90F24F247E80012913A /* 2908.swift */; };
 		6007F91324F249D90012913A /* 1712.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6007F91224F249D90012913A /* 1712.swift */; };
 		6007F91524F3F00A0012913A /* 2839.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6007F91424F3F00A0012913A /* 2839.swift */; };
@@ -77,6 +79,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2683058424FFDEC300DBD3FF /* 4948.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4948.swift; sourceTree = "<group>"; };
+		2683058624FFE36800DBD3FF /* 9020.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9020.swift; sourceTree = "<group>"; };
 		6007F90F24F247E80012913A /* 2908.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2908.swift; sourceTree = "<group>"; };
 		6007F91224F249D90012913A /* 1712.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1712.swift; sourceTree = "<group>"; };
 		6007F91424F3F00A0012913A /* 2839.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2839.swift; sourceTree = "<group>"; };
@@ -168,6 +172,8 @@
 				6007F92524FD39340012913A /* 1978.swift */,
 				6007F92724FD41620012913A /* 2581.swift */,
 				6007F92924FD45D40012913A /* 1929.swift */,
+				2683058424FFDEC300DBD3FF /* 4948.swift */,
+				2683058624FFE36800DBD3FF /* 9020.swift */,
 			);
 			name = "수학 2";
 			path = "수학 2";
@@ -415,8 +421,10 @@
 				60D3EBE524F0E94D00B88AA3 /* 1157.swift in Sources */,
 				60D3EB9A24E8219700B88AA3 /* 14681.swift in Sources */,
 				60D3EBC524EA289E00B88AA3 /* 2446.swift in Sources */,
+				2683058724FFE36800DBD3FF /* 9020.swift in Sources */,
 				60D3EBA924E8F0A100B88AA3 /* 2742.swift in Sources */,
 				BA36BDA924EEB7E2007812C1 /* 4673.swift in Sources */,
+				2683058524FFDEC300DBD3FF /* 4948.swift in Sources */,
 				60D3EBBD24EA1E9600B88AA3 /* 10039.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
