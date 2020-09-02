@@ -10,9 +10,9 @@ import Foundation
 
 func run_10871() {
     let inputArr = readLine()!.split(separator: " ").map { Int($0)! }
-    let N = inputArr[0], X = inputArr[1]
+    let _ = inputArr[0], X = inputArr[1]
 
-    var A = readLine()!.split(separator: " ").map { Int($0)! }.filter {$0 < X}
+    let A = readLine()!.split(separator: " ").map { Int($0)! }.filter {$0 < X}
 
     A.forEach {
         print($0, terminator: " ")

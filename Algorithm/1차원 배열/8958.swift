@@ -12,7 +12,7 @@ func run_8958() {
     let N = Int(readLine()!)!
     
     for _ in 0..<N {
-        var scoreArr = readLine()!.map(String.init)
+        let scoreArr = readLine()!.map(String.init)
         var score = 0
         var sum = 0
         
