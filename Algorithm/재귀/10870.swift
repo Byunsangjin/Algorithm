@@ -13,7 +13,7 @@ func run_10870() {
     print(fibo(n))
 }
 
-func fibo(_ count: Int) -> Int {
+private func fibo(_ count: Int) -> Int {
     if count == 0 { return 0 }
     if count == 1 { return 1 }
     
